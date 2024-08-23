@@ -1,5 +1,9 @@
 
-<h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hola! Soy Antonella  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+<h1 align="center"> Desarrolladora Front-end  </h1>
 <p align='center'>
 </p>
 
@@ -9,20 +13,19 @@
 
 
 
-<h3> About Me </h3>
+<h3> Sobre mí </h3>
 
-- 👱‍♀️ I'm Antonella Re
-- 📚 I’m  Studient   
-- 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
+- 📚 Actualmente estudiando.  
+- 🏫 Estudiando en Instituto Superior Córdoba (sede Villa del Rosario)
   
-- 🌱 I’m currently learning GitHub, PHP, MySQL, Python.
+- 🌱 Aprendiendo Actualmente: GitHub, PHP, MySQL, Python.
   
-- 💬 Ask me about Sql, C#, JavaScript, CSS, Html.
+- 💬 Pregúntame sobre: Sql, C#, JavaScript, CSS, Html.
   
-- ⚡ Fun fact: I like to design interfaces.
+
 </p>
 
-<h3 align="center"> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
+<h3 align="center"> Herramientas  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -46,7 +49,7 @@
 </p>
 
 
-<h3 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
+<h3 align="center"> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="center">
 <a href = 'https://www.linkedin.com/in/maria-antonella-re-760696237'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/AntonellaRe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
