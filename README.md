@@ -9,18 +9,17 @@
 
 
 
-<h3 align="center"> About Me </h3>
-<p align="center">
-- 📚 I’m  Studient 
-    
+<h3> About Me </h3>
+
+- 📚 I’m  Studient   
 - 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
-- 
+  
 - 🌱 I’m currently learning GitHub, PHP, MySQL, Python.
-- 
+  
 - 💬 Ask me about Sql, C#, JavaScript, CSS, Html.
-- 
+  
 - ⚡ Fun fact: I like to design interfaces.
-</p>
+
 
 <h3 align="center"> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 
