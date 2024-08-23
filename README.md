@@ -1,5 +1,5 @@
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -9,8 +9,8 @@
 
 
 
-<h3> About Me </h3>
-
+<h3 align="center"> About Me </h3>
+<p align="center">
 
 
 - 📚 I’m  Studient 
@@ -22,7 +22,7 @@
 - 💬 Ask me about Sql, C#, JavaScript, CSS, Html.
   
 - ⚡ Fun fact: I like to design interfaces.
-
+</p>
 
 <h3 align="center"> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 
