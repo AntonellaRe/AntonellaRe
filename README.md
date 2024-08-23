@@ -3,7 +3,7 @@
 <p align='center'>
 </p>
 
-<h1 align="center"> Desarrolladora Front-end  </h1>
+<h2 align="center"> Desarrolladora Front-end  </h2>
 <p align='center'>
 </p>
 
