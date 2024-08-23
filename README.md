@@ -3,9 +3,6 @@
 <p align='center'>
 </p>
 
-<h2 align="center"> My name is Antonella Re.   </h2>
-<p align='center'>
-</p>
 <p align="center">
     <img width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 </p>
@@ -14,6 +11,7 @@
 
 <h3> About Me </h3>
 
+- 👱‍♀️I'm Antonella Re
 - 📚 I’m  Studient   
 - 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
   
