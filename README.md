@@ -11,7 +11,7 @@
 
 <h3> About Me </h3>
 
-- 👱‍♀️I'm Antonella Re
+- 👱‍♀️ I'm Antonella Re
 - 📚 I’m  Studient   
 - 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
   
