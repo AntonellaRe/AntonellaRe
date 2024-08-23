@@ -10,7 +10,7 @@
 
 
 <h3> About Me </h3>
-<p align="center">
+
 - 📚 I’m  Studient   
 - 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
   
