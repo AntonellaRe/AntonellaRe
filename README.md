@@ -12,9 +12,13 @@
 <h3 align="center"> About Me </h3>
 <p align="center">
 - 📚 I’m  Studient 
-- 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario) 
+    
+- 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
+- 
 - 🌱 I’m currently learning GitHub, PHP, MySQL, Python.
-- 💬 Ask me about Sql, C#, JavaScript, CSS, Html. 
+- 
+- 💬 Ask me about Sql, C#, JavaScript, CSS, Html.
+- 
 - ⚡ Fun fact: I like to design interfaces.
 </p>
 
