@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://dribbble.com/shots/2542587-Third-Winner-of-Toptal-s-STEM-Scholarships-for-Women?utm_source=Clipboard_Shot&utm_campaign=toptal&utm_content=Third%20Winner%20of%20Toptal's%20STEM%20Scholarships%20for%20Women!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=toptal&utm_content=Third%20Winner%20of%20Toptal's%20STEM%20Scholarships%20for%20Women!&utm_medium=Social_Share)">
+    <img width="200" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 </p>
 
 <h1> Hello < Developers/ >! <img src = "[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://dribbble.com/shots/2542587-Third-Winner-of-Toptal-s-STEM-Scholarships-for-Women?utm_source=Clipboard_Shot&utm_campaign=toptal&utm_content=Third%20Winner%20of%20Toptal's%20STEM%20Scholarships%20for%20Women!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=toptal&utm_content=Third%20Winner%20of%20Toptal's%20STEM%20Scholarships%20for%20Women!&utm_medium=Social_Share)" width = 30px> </h1>
