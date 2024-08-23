@@ -9,7 +9,7 @@
 
 
 
-<h2> About Me <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxkejMyOWQyZHU1M2RleG5mcjh0YnN4Z3RzYTZqOXNhdTNyOWZ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9BUxDjZUk6dZeicZl/giphy.webp" width = 100px></h2>
+<h3> About Me </h3>
 
 
 
