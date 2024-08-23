@@ -1,12 +1,11 @@
-<p align="center">
-    <img width="230" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
-</p>
-
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
+<p align="center">
+    <img width="250" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
+</p>
 
 
 
@@ -14,19 +13,15 @@
 
 
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 📚 I’m  Studient 
 - 🏫 Studying in Instituto Superior Córdoba (sede Villa del Rosario)
   
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, C#, JavaScript, CSS.
-  
-- ⚡ Fun fact: Me gustan diseñar.
-
+- 🌱 I’m currently learning GitHub, PHP, MySQL, Python.
 
   
+- 💬 Ask me about Sql, C#, JavaScript, CSS, Html.
+  
+- ⚡ Fun fact: I like to design interfaces.
 
 
 <h3 align="center"> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
@@ -54,9 +49,10 @@
 
 
 <h3 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
+<p align="center">
 <a href = 'https://www.linkedin.com/in/maria-antonella-re-760696237'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/AntonellaRe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
+  </p>
 <br>
 <br>
   <br>
