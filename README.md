@@ -15,8 +15,7 @@
 
 <h3> Sobre mí </h3>
 
-- 📚 Actualmente estudiando.  
-- 🏫 Estudiando en Instituto Superior Córdoba (sede Villa del Rosario)
+- 📚 Estudiando en Instituto Superior Córdoba (sede Villa del Rosario)
   
 - 🌱 Aprendiendo Actualmente: GitHub, PHP, MySQL, Python.
   
