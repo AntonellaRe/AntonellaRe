@@ -1,19 +1,18 @@
 <p align="center">
-    <img width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-writing-code-animation-download-in-lottie-json-gif-static-svg-file-formats--female-developer-web-development-computer-programing-pack-people-animations-7980372.mp4">
+    <img width="200" src="<img width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-writing-code-animation-download-in-lottie-json-gif-static-svg-file-formats--female-developer-web-development-computer-programing-pack-people-animations-7980372.mp4">">
 </p>
 
-<h1> Hello < Developers/ >! <img width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-writing-code-animation-download-in-lottie-json-gif-static-svg-file-formats--female-developer-web-development-computer-programing-pack-people-animations-7980372.mp4">  </h1>
+<h1> Hello < Developers/ >!  </h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
-
-<div size='20px'> Hi! My name is Antonella. Thank You for taking the time to view my GitHub Profile :smile: 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/maria-antonella-re-760696237)
+<div size='20px'> Hi! My name is Antonella. Thank You for taking the time to view my GitHub Profile :smile: 🖤💻
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "<iframe src="https://giphy.com/embed/e9BUxDjZUk6dZeicZl" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WesternDigitalCorporation-e9BUxDjZUk6dZeicZl">via GIPHY</a></p>" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -28,8 +27,8 @@
 - ⚡ Fun fact: Me gustan diseñar.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+
+ <a> <img width ='32px' src ='[https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
