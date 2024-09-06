@@ -50,11 +50,10 @@
 
 <h3 align="center"> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="center">
-
 <a href = 'https://antonellare.github.io/cv-web/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.freepik.com/512/3589/3589055.png"/></a> 
 <a href = 'https://www.linkedin.com/in/reantonella/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/AntonellaRe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  </p>
+</p>
 <br>
 <br>
   <br>
