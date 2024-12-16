@@ -15,11 +15,11 @@
 
 <h3> Sobre mí </h3>
 
-- 📚 Estudiando en Instituto Superior Córdoba (sede Villa del Rosario)
+- 🎓 Graduada en Instituto Superior Córdoba (sede Villa del Rosario)
   
-- 🌱 Aprendiendo Actualmente: GitHub, PHP, MySQL, Python.
+- 🌱 Aprendiendo Actualmente: GitHub, PHP, MySQL, Python, Android.
   
-- 💬 Pregúntame sobre: Sql, C#, JavaScript, CSS, Html.
+- 💬 Pregúntame sobre: Sql, C#, JavaScript, CSS, Html, PHP.
   
 
 </p>
