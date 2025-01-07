@@ -17,9 +17,8 @@
 
 - 🎓 Graduada en Instituto Superior Córdoba (sede Villa del Rosario)
   
-- 🌱 Aprendiendo Actualmente: GitHub, PHP, MySQL, Python, Android.
+- 🌱 Aprendiendo Actualmente: Note.js, React.
   
-- 💬 Pregúntame sobre: Sql, C#, JavaScript, CSS, Html, PHP.
   
 
 </p>
@@ -43,6 +42,9 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  </a>
+      <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   </a>
 </p>
